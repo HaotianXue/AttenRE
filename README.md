@@ -1,7 +1,7 @@
 # Deep_Relation_Extraction
 Extract relation within unstructured sentence by using deep learning techniques
 
-A relation knowledge graph is consisted of directed graph where a node is a tuple (entity_1, relation, entity_2).
+A relation knowledge graph is consisted of directed graph where a node is a triple (entity_1, relation, entity_2).
 
 Relation extraction task is to predict the relation between two entities within a sentence or a paragraph.
 
