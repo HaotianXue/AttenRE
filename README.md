@@ -24,3 +24,8 @@ Model Layout:
 
 ![CNN](img/baseline_cnn.jpg)![RNN](img/base_cnn.jpg)
 ![Attention](img/mutlihead.jpg)
+
+
+Training:
+![Loss](img/mh_loss.png)
+
