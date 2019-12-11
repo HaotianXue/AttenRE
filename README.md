@@ -18,3 +18,10 @@ Distant supervision:
 1) CNN: word embedding + position embedding + CNN + word-level attention + sentence-level attention + feed-forward neural network
 2) RNN: word embedding + position embedding + LSTM + word-level attention + sentence-level attention + feed-forward neural network
 3) Attention model: word embedding + position embedding + Multi-head self-attnetion encoder + word-level attention + sentence-level-attention + feed-forward neural network
+
+Model Layout:
+![CNN](https://github.com/HaotianXue/Deep_Relation_Extraction/tree/master/img/baseline_cnn.jpg)
+
+![RNN](https://github.com/HaotianXue/Deep_Relation_Extraction/tree/master/img/base_cnn.jpg)
+
+![Attention](https://github.com/HaotianXue/Deep_Relation_Extraction/tree/master/img/multihead.jpg)
