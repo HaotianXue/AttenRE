@@ -20,8 +20,8 @@ Distant supervision:
 3) Attention model: word embedding + position embedding + Multi-head self-attnetion encoder + word-level attention + sentence-level-attention + feed-forward neural network
 
 Model Layout:
-![CNN](https://github.com/HaotianXue/Deep_Relation_Extraction/tree/master/img/baseline_cnn.jpg)
+![CNN](/img/baseline_cnn.jpg)
 
-![RNN](https://github.com/HaotianXue/Deep_Relation_Extraction/tree/master/img/base_cnn.jpg)
+![RNN](/img/base_cnn.jpg)
 
-![Attention](https://github.com/HaotianXue/Deep_Relation_Extraction/tree/master/img/multihead.jpg)
+![Attention](/img/mutlihead.jpg)
