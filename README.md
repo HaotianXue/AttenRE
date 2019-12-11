@@ -19,9 +19,7 @@ Distant supervision:
 2) RNN: word embedding + position embedding + LSTM + word-level attention + sentence-level attention + feed-forward neural network
 3) Attention model: word embedding + position embedding + Multi-head self-attnetion encoder + word-level attention + sentence-level-attention + feed-forward neural network
 
+
 Model Layout:
-![CNN](/img/baseline_cnn.jpg)
 
-![RNN](/img/base_cnn.jpg)
-
-![Attention](/img/mutlihead.jpg)
+![CNN](img/baseline_cnn.jpg)![RNN](img/base_cnn.jpg)![Attention](img/mutlihead.jpg)
