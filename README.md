@@ -1,4 +1,6 @@
 # Deep_Relation_Extraction
+### Author: Haotian Xue 
+### Supervisor: Prof. Dongwoo Kim (http://dongwookim-ml.github.io/)
 Extract relation within unstructured sentence by using deep learning techniques
 
 A relation knowledge graph is consisted of directed graph where a node is a triple (entity_1, relation, entity_2).
