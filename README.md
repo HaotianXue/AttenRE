@@ -22,4 +22,5 @@ Distant supervision:
 
 Model Layout:
 
-![CNN](img/baseline_cnn.jpg)![RNN](img/base_cnn.jpg)![Attention](img/mutlihead.jpg)
+![CNN](img/baseline_cnn.jpg)![RNN](img/base_cnn.jpg)
+![Attention](img/mutlihead.jpg)
