@@ -1,4 +1,4 @@
-# Deep_Relation_Extraction
+# AttenRE System
 ### Author: Haotian Xue 
 ### Supervisor: Prof. Dongwoo Kim (http://dongwookim-ml.github.io/)
 Extract relation within unstructured sentence by using deep learning models
